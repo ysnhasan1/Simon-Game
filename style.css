@@ -1,0 +1,112 @@
+/* Simon Game (style.css) */
+
+body {
+  text-align: center;
+  background-color: azure;
+}
+
+h1 {
+  font-family: 'Black Ops One', cursive;
+  font-size: 50px;
+  color: sienna;
+}
+
+.btn-play {
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: black;
+  cursor: pointer;
+}
+
+.hide-button {
+  visibility: hidden;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 20px;
+  display: inline-block;
+  height: 210px;
+  width: 210px;
+  border: 5px solid black;
+  border-radius: 50%;
+}
+
+.pressed {
+  box-shadow: 10px 10px 100px black;
+}
+
+.game-over {
+  background-color: salmon;
+  opacity: 0.5;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+footer {
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+/* Media Queries */
+@media (max-width: 1100px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  .btn-play {
+    font-size: 12px;
+  }
+
+  .btn {
+    margin: 7px;
+    height: 120px;
+    width: 120px;
+  }
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 25px;
+    margin-bottom: 50px;
+  }
+
+  .btn-play {
+    font-size: 10px;
+    margin-bottom: 50px;
+    ;
+  }
+
+  .btn {
+    margin: 3px;
+    height: 60px;
+    width: 60px;
+  }
+
+  footer {
+    margin-top: 75px;
+    font-size: 15px;
+  }
+}
