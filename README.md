@@ -25,11 +25,11 @@ Feel free to share your highest level with me.
 ## Play The Game 👇
 https://ysnhasan1.github.io/Simon-Game/
 
-## Screenshots
-<img src="https://github.com/ysnhasan1/Simon-Game/assets/102024926/12867cb6-1d5b-4d09-8454-dec74240a13e"><br />
-
-<img src="https://github.com/ysnhasan1/Simon-Game/assets/102024926/d41b09b7-8c69-4aa0-bf2c-7b55cbe15662"><br />
+## Original Screen Size
+<img src="https://github.com/ysnhasan1/Simon-Game/assets/102024926/5ccfda96-821f-44b8-a04f-a5655873dd7a"><br />
 
 ## Responsive to Smaller Screen Size (Phone View)
-<img src="https://github.com/ysnhasan1/Simon-Game/assets/102024926/6d87bbe7-84b4-4113-96ee-12973efb06fd" height="500">
+<div align="center">
+<img src="https://github.com/ysnhasan1/Simon-Game/assets/102024926/a5d96cee-f012-422b-860e-e92bb3811914" height="500">
+</div>
 
