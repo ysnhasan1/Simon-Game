@@ -12,10 +12,11 @@ h1 {
 }
 
 .btn-play {
+  text-align: center;
   font-family: monospace;
   font-size: 20px;
-  color: white;
-  padding: 10px 30px;
+  color: azure;
+  padding: 10px 40px;
   border-radius: 10px;
   background: black;
   cursor: pointer;
